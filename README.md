@@ -94,7 +94,10 @@ Air pollution is a critical issue in Delhi, and this dashboard helps visualize p
 
 * This is a short video of how the dashboard work as i select year and month how Indicators changes and how pollutant % change in Donut chart and changes in clustered column chart as i change years.
 
-<video controls src="Screen Recording 2026-03-31 154320.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/8144ae33-f6fb-43be-8054-06416bf9cf68
+
 
 ---
 ## ⭐ Conclusion
