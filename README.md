@@ -63,14 +63,6 @@ Air pollution is a critical issue in Delhi, and this dashboard helps visualize p
 
 ---
 
-## 🚀 How to Use
-
-1. Download the [Delhi_Air_Polltion.pbix](<../../../Documents/Delhi Air Quality_PowerBI.pbix>) file.
-2. Open in Power BI Desktop.
-3. Explore dashboard using filters and visuals.
-
----
-
 ## Highlights of Dashboard
 
 1. Using <B><i> Cards </i> </B> i have Make Two Indicators to Show Average of AQI of total pollution if not selected any and show A Certain Average of Pollution if select and another card is for counting Holidays of total years if not selected any and if selected any it show a certain month holiday of a certain year.
